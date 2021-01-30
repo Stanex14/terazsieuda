@@ -8,7 +8,7 @@
             Telefon
         </div>
         <div class="nr">
-           533 523 123 123 
+           533 523 123 123 1231234
         </div>
         <div class="email">
            E-Mail
