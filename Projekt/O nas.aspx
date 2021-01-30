@@ -8,7 +8,7 @@
         <div class="dwa">
             Na Wildzie nazwisko Zimińskich kojarzone jest z pieczywem od dziesięcioleci. I nie ma w tym nic dziwnego, ponieważ Leopold Zimiński, dziadek dzisiejszego właściciela, otworzył swój pierwszy zakład już w 1934 roku.
 Piekarnia przetrwała okres wojenny. Po Stanisławie - seniorze piekarskiego rodu - zakład przejął jego syn Romuald.
-Dzisiaj Piekarnia-Cukiernia Stanisława i Essa Zimińskich to znakomity przykład firmy rodzinnej, w której tradycje dobrej wielkopolskiej roboty przekazywane są z pokolenia na pokolenie.
+Dzisiaj Piekarnia-Cukiernia Stanisława i Essa Zimińskich to znakomity przykład firmy rodzinnej, w której tradycje dobrej wielkopolskiej roboty przekazywane są z pokolenia na pokolenie.123
         </div>
         <div class="trzy">
         <img src="historia-piekarni.jpg" />
