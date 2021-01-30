@@ -14,15 +14,15 @@
 <body>
     <form id="form1" runat="server">
         <header>
-            <a class="logo" href="/"><img src="logo.svg" alt="logo"></a>
+            <a class="logo" href="#"><img src="logo.svg"  alt="logo"/></a>
             <nav>
                 <ul class="nav_linki">
                     <li><a href="#">Services</a></li>
                     <li><a href="#">Projects</a></li>
-                    <li><a href="#">About</a></li>
+                    <li><a href="O nas.aspx">O nas</a></li>
                 </ul>
             </nav>
-            <a class="przycisk" href="#">Contact</a>
+            <a class="przycisk" href="kontakt.aspx">Kontakt</a>
         </header>
         <article><asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
         

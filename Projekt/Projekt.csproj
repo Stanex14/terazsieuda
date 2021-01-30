@@ -69,7 +69,9 @@
   <ItemGroup>
     <Content Include="styles.css" />
     <Content Include="Web.config" />
-    <Content Include="WebForm1.aspx" />
+    <Content Include="O nas.aspx" />
+    <Content Include="Glowna.aspx" />
+    <Content Include="kontakt.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="NestedMasterPage1.master.cs">
@@ -79,12 +81,12 @@
     <Compile Include="NestedMasterPage1.master.designer.cs">
       <DependentUpon>NestedMasterPage1.master</DependentUpon>
     </Compile>
-    <Compile Include="NestedMasterPage2.master.cs">
-      <DependentUpon>NestedMasterPage2.master</DependentUpon>
+    <Compile Include="Onas.master.cs">
+      <DependentUpon>Onas.master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="NestedMasterPage2.master.designer.cs">
-      <DependentUpon>NestedMasterPage2.master</DependentUpon>
+    <Compile Include="Onas.master.designer.cs">
+      <DependentUpon>Onas.master</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site1.Master.cs">
@@ -94,17 +96,31 @@
     <Compile Include="Site1.Master.designer.cs">
       <DependentUpon>Site1.Master</DependentUpon>
     </Compile>
-    <Compile Include="WebForm1.aspx.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
+    <Compile Include="O nas.aspx.cs">
+      <DependentUpon>O nas.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="WebForm1.aspx.designer.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
+    <Compile Include="O nas.aspx.designer.cs">
+      <DependentUpon>O nas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Glowna.aspx.cs">
+      <DependentUpon>Glowna.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Glowna.aspx.designer.cs">
+      <DependentUpon>Glowna.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="kontakt.aspx.cs">
+      <DependentUpon>kontakt.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="kontakt.aspx.designer.cs">
+      <DependentUpon>kontakt.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="NestedMasterPage1.master" />
-    <Content Include="NestedMasterPage2.master" />
+    <Content Include="Onas.master" />
     <None Include="packages.config" />
     <Content Include="Site1.Master" />
     <None Include="Web.Debug.config">
