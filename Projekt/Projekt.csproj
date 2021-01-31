@@ -72,6 +72,7 @@
     <Content Include="O nas.aspx" />
     <Content Include="Glowna.aspx" />
     <Content Include="kontakt.aspx" />
+    <Content Include="RODO.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="NestedMasterPage1.master.cs">
@@ -116,6 +117,13 @@
     </Compile>
     <Compile Include="kontakt.aspx.designer.cs">
       <DependentUpon>kontakt.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RODO.aspx.cs">
+      <DependentUpon>RODO.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RODO.aspx.designer.cs">
+      <DependentUpon>RODO.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
